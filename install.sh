@@ -37,7 +37,7 @@ $update fetch
 
 # install packages
 printf "\nInstalling packages\n"
-$pkg fish fluxbox ghc git neovim python tmux xorg xdm
+$pkg chromium firefox fish fluxbox ghc git neovim python tmux xorg xdm
 
 printf "\n\n${green}All done${default}\n\n"
 printf "We probably missed some things. Please be sure to update this script "
