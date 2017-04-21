@@ -37,7 +37,7 @@ $update fetch
 
 # install packages
 printf "\nInstalling packages\n"
-$pkg chromium \
+$pkg chromium cmake \
      firefox fish fluxbox \
      ghc git \
      neovim \
