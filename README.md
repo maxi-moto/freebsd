@@ -6,4 +6,3 @@ for desktop use.
 ## Usage:
 bash install.sh
 
-
