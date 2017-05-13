@@ -42,8 +42,9 @@ $pkg chromium cmake \
      ghc git \
      neovim \
      python \
+     slim \
      tmux \
-     xorg xdm
+     xorg
 
 printf "\n\n${green}All done${default}\n\n"
 printf "We probably missed some things. Please be sure to update this script "
