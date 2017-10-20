@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/usr/home/maximus/.config'
+let g:netrw_dirhist_2='/usr/home/maximus/.config/i3status'
+let g:netrw_dirhist_3='/usr/home/maximus/Development/qit'
+let g:netrw_dirhist_4='/usr/home/maximus/Development/qit/src'
+let g:netrw_dirhist_5='/usr/home/maximus/Development/qit/src/src'
+let g:netrw_dirhist_6='/usr/home/maximus/Development/qit/src'
+let g:netrw_dirhist_7='/usr/home/maximus/Development/qit/src/src'
+let g:netrw_dirhist_8='/usr/home/maximus/Development/qit/src'
+let g:netrw_dirhist_9='/usr/home/maximus/Development/qit/src/src'

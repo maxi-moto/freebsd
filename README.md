@@ -1,8 +1,6 @@
-# FreeBSD Installation
+# FreeBSD
 
-Simple bash script to install basic things on a new install of FreeBSD. Targeted
-for desktop use.
+A collection of FreeBSD things I use
 
-## Usage:
-bash install.sh
+## Notes:
 
