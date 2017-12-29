@@ -3,6 +3,7 @@ set encoding=utf-8
 set nocompatible
 set background=dark
 set nu
+set relativenumber
 syntax on
 set cursorline
 highlight CursorLine cterm=NONE ctermbg=darkred
