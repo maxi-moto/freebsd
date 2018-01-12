@@ -1,3 +1,2 @@
 alias ls='ls -G'
 alias kill='kill -9'
-alias ps='ps aux | ack -i'
